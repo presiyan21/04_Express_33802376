@@ -5,13 +5,13 @@ It displays my education, skills, work experience, and achievements in a clean H
 
 ## 🚀 Features
 - Built with **Express.js**
-- Organized with a separate **routes folder**
+- Organised with a separate **routes folder**
 - Includes multiple pages:
   - `/` — Home  
   - `/about` — About Me page (styled HTML)  
   - `/contact` — Contact information  
   - `/date` — Current date and time  
-  - `/welcome/:name` — Personalized welcome page  
+  - `/welcome/:name` — Personalised welcome page  
   - `/chain` — Example of Express middleware chaining  
   - `/file` — Serves a static HTML file (`a.html`)
 - Modular routing for clean and maintainable code
