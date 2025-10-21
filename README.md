@@ -40,12 +40,3 @@ node index.js
 Open your browser and visit:
 
 http://localhost:8000/
-
-🧩 Project Structure
-04_Express_33802376/
-│
-├── index.js                # Main entry file
-├── routes/
-│   └── main.js             # Contains all route handlers
-├── a.html                  # HTML file served by /file route
-└── README.md               # Project documentation
